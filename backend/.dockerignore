@@ -1,0 +1,3 @@
+venv
+.get
+db.sqlite3
